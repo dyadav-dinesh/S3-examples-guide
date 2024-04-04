@@ -1,7 +1,0 @@
-Configure aws s3 profile, run the below command and enter the access key and security key on the prompt.
-#  aws configure --profile <profile_name>
-for example 
-
-List buckets using list-objects and ls options.
-# aws s3 ls --profile p1 --endpoint-url http://192.168.1.102:9000
-# aws s3api list-buckets --profile p1 --endpoint-url http://192.168.1.102:9000
