@@ -1,0 +1,17 @@
+{
+Configure aws s3 profile, run the below command and enter the access key and security key on the prompt.
+#  aws configure --profile <profile_name>
+
+Given is a command output. 
+
+e.g. aws configure --profile p1
+AWS Access Key ID [None]: 7Yf4rjb44m9XiGcDN80R
+AWS Secret Access Key [None]: zuuE2ePGOdzIBMYNWrBGBPxAUFVQYvEuz6ep5eIW
+Default region name [None]:
+Default output format [None]:
+}
+
+{
+
+
+}
